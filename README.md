@@ -3,6 +3,12 @@
 
 WEBサイトは[こちら](https://ffac.mnmonzk.f5.si)です
 
+SSLだと「安全でないスクリプト」と出てしまうのを修正というか、出ないようにしたやつです。
+
+また、私の技術ではtwitter認証+ブラックリストの管理とかのAPIをいじれる自信がないため、ffac.riku.pwのtwitter認証のリンクに書き換えてあります。
+
+これら以外は基本的に弄っていません。
+
 ## Fight for artistic creativity(ffac)とは
 > Twitterをディストピアにしないために、我々ができること。
 
@@ -15,3 +21,14 @@ WEBサイトは[こちら](https://ffac.mnmonzk.f5.si)です
 
 ## ライセンス
 [MIT License](https://github.com/mnmonzk/ffac-web/blob/master/LICENSE) Copyright © 2017 Tomotada Saigusa
+
+##リンク
+[FFAC Project](https://github.com/Twitter-FFAC/fight-for-artistic-creativity)(github)
+[@ffac2018](https://twitter.com/ffac2018)(Twitter)
+[ffac.riku.pw](https://ffac.riku.pw/)
+[ffac.g-second.net](https://ffac.g-second.net)
+
+##何かありましたら。
+twitter: [@yamagami2211](https://twitter.com/yamagami2211)(Twitter)までどうぞ。
+
+尚、私はFFAC Projectの関係者ではなく、ただの一般人です。FFCAに関する質問等には答えられません。
