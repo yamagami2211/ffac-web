@@ -22,13 +22,13 @@ SSLだと「安全でないスクリプト」と出てしまうのを修正と�
 ## ライセンス
 [MIT License](https://github.com/mnmonzk/ffac-web/blob/master/LICENSE) Copyright © 2017 Tomotada Saigusa
 
-##リンク
+## リンク
 [FFAC Project](https://github.com/Twitter-FFAC/fight-for-artistic-creativity)(github)
 [@ffac2018](https://twitter.com/ffac2018)(Twitter)
 [ffac.riku.pw](https://ffac.riku.pw/)
 [ffac.g-second.net](https://ffac.g-second.net)
 
-##何かありましたら。
+## 何かありましたら。
 twitter: [@yamagami2211](https://twitter.com/yamagami2211)(Twitter)までどうぞ。
 
 尚、私はFFAC Projectの関係者ではなく、ただの一般人です。FFCAに関する質問等には答えられません。
