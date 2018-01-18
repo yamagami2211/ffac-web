@@ -14,7 +14,8 @@
                         インポートするアカウントでログインしてください。<br />
                         その後、画面の指示に従って操作してください。
                         <br />
-                        <a class="btn" href="oauth.php" target="blank">アプリケーション認証画面を開く</a>
+                        <a class="btn" href="https://ffac.riku.pw/protect-yourself/twitter/oauth.php" target="blank">アプリケーション認証画面を開く</a><br>
+                        (ffac.riku.pwのTwitter認証)
                     </div>
                 </div>
             </div>
