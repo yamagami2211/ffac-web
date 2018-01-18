@@ -31,4 +31,4 @@ SSLだと「安全でないスクリプト」と出てしまうのを修正と�
 ## 何かありましたら。
 twitter: [@yamagami2211](https://twitter.com/yamagami2211)(Twitter)までどうぞ。
 
-尚、私はFFAC Projectの関係者ではなく、ただの一般人です。FFCAに関する質問等には答えられません。
+尚、私はFFAC Projectの関係者ではなく、ただの一般人です。FFACに関する質問等には答えられません。
