@@ -2,7 +2,7 @@
     include "../../inc/config.php";
     $title = "ブロックしたいアカウントを選択する";
     include "../../inc/header.php";
-    
+
     if(!isset($_SESSION["access_token"])) {
         header("Location: ./");
     }
@@ -100,7 +100,7 @@
                 block_btn.setAttribute("disabled", "");
                 block_btn.innerText = "処理中です…";
                 $.post(
-                    "https://ffac.g-second.net/protect-yourself/twitter/block.php",
+                    "https://ffac.yama2211.biz/protect-yourself/twitter/block.php",
                     {
                         "user[]": user_list
                     },
