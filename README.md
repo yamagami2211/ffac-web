@@ -29,6 +29,6 @@ SSLだと「安全でないスクリプト」と出てしまうのを修正と�
 [ffac.g-second.net](https://ffac.g-second.net)
 
 ## 何かありましたら。
-twitter: [@yamagami2211](https://twitter.com/yamagami2211)(Twitter)までどうぞ。
+twitter: [@yamagami2211_02](https://twitter.com/yamagami2211_02)(Twitter) 若しくは admin@yama2211.biz までどうぞ。
 
 尚、私はFFAC Projectの関係者ではなく、ただの一般人です。FFACに関する質問等には答えられません。
